@@ -1,7 +1,7 @@
-/* Exercise 5.20 
-Write an application that prompts the user 
-for the radius of a circle and uses a method 
-called circleArea to calculate the area of the circle. */
+//Exercise 5.20 
+//Write an application that prompts the user 
+//for the radius of a circle and uses a method 
+//called circleArea to calculate the area of the circle. 
 
 package week4program2;
 
