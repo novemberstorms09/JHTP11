@@ -1,5 +1,4 @@
-//<File name> -- Computer Assisted Instructions
-//CSIS 212
+//Exercise 5.35 Computer-Assisted Instruction
 
 package week4program3;
 
@@ -10,7 +9,7 @@ public class Week4Program3 {
 
       
     public static void main(String[] args) {
-    System.out.println("Jackee Ragan - Assignment 4 Program 3\n");   
+     
 
     Scanner input = new Scanner(System.in);
     SecureRandom rando = new SecureRandom();
