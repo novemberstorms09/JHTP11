@@ -1,5 +1,15 @@
-//<File name> -- Integer Multiples
-//CSIS 212
+//Integer Multiples
+/*Excersise 5.16. Write a method isMutliple 
+that determines, for a pair of integers, 
+whether the second integer is a multiple of 
+the first. The method will take 2 integer 
+arguments and return true if the second is
+a multiple of the first and false otherwise. 
+[Hint: Use the remainder operator]. Incorporate 
+this method into an application that inputs a 
+series of pairs of integers (1 pair at a time) 
+and determines whether the second value in each 
+pair is a multiple of the first. */
 
 package week4program1;
 
@@ -9,7 +19,6 @@ public class week4program1 {
 
     
     public static void main(String [] args){
-        System.out.println("Jackee Ragan - Assignment 4 Program 1\n");   
         
         Scanner sc = new Scanner(System.in);
         
