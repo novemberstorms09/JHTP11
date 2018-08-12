@@ -1,0 +1,39 @@
+/*Exercise 2.14
+Write an application that displayes the number 
+1 to 4 on the same line, with each pari of adjacent
+numbers seperated by one space. Use the following techniques:
+1. use one System.out.println
+2. use four System.out.print 
+3. use one System.out.printf
+ */
+
+package onethrufour;
+
+public class OneThruFour {
+
+   
+    public static void main(String[] args) {
+      //Use println
+        System.out.println("1 2 3 4");
+        
+        //blank line
+        System.out.println();
+        
+       //use print
+        System.out.print("1 ");
+        System.out.print("2 ");
+        System.out.print("3 ");
+        System.out.print("4 ");
+        
+        //blank line
+        System.out.println("\n");
+        
+        //use printf
+        System.out.printf("1 2 3 4");
+        
+        //blank line
+        System.out.println("\n");
+        
+    }
+    
+}
