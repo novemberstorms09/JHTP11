@@ -1,5 +1,7 @@
-//<File name> -- Circle Area
-//CSIS 212
+/* Exercise 5.20 
+Write an application that prompts the user 
+for the radius of a circle and uses a method 
+called circleArea to calculate the area of the circle. */
 
 package week4program2;
 
@@ -8,7 +10,7 @@ import java.util.Scanner;
 public class Week4Program2 {
 
     public static void main(String[] args) {
-    System.out.println("Jackee Ragan - Assignment 4 Program 2\n");   
+ 
     
      //Create scanner for input
      Scanner radius = new Scanner(System.in);
